@@ -1,4 +1,4 @@
-#openCV-DL (learning repository from Adrian pyimagesearch)
+# openCV-DL (learning repository from Adrian pyimagesearch)
 
 Using OpenCV's DNN module and pretrained models from openCV github
 
